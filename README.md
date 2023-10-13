@@ -15,7 +15,7 @@ Before getting started, make sure you have Node.js installed on your machine. Yo
    ```bash
    npm i 
    ```
-Install the React Router DOM library with npm:
+3. Install the React Router DOM library with npm:
    ```bash
    npm i react-router-dom 
    ```
