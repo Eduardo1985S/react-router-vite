@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100vw;
+    height: 64px;
+    padding: 16px;
+
+    background-color: #3b5998;
+
+}
+
+header div{
+    display: flex;
+    gap: 8px;
+    font-weight: bold;
+}
+
+header div a{
+    text-decoration: none;
+    color: white;
+}
+header div a:hover{
+    text-decoration: underline;
+    color: rgb(255, 221, 0);
+    font-weight: bold;
+}
+.logo{
+    height: 8vh;
+}
